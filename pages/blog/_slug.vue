@@ -61,6 +61,7 @@ export default {
                     hid: 'description',
                     name: 'description',
                     content: this.post.content.excerpt,
+                    image: this.post.content.main_image.filename,
                 },
             ],
         }
