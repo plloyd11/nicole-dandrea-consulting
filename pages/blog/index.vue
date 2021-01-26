@@ -15,6 +15,7 @@
                 :key="post.content.title"
                 :slug="`/blog/${post.slug}`"
                 :title="post.content.title"
+                :tags="post.tag_list"
                 :main-image="post.content.main_image.filename"
                 :excerpt="post.content.excerpt"
                 :author="post.content.author"

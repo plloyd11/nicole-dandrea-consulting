@@ -17,9 +17,9 @@
             <div class="lg:hidden">
                 <button
                     v-on-clickaway="closeMobileMenu"
-                    @click="mobileMenu = !mobileMenu"
                     type="button"
                     class="inline-flex items-center justify-center p-2 transition duration-150 ease-in-out rounded-md text-headerDark hover:text-bodyCopyDark hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:text-bodyCopyDark"
+                    @click="mobileMenu = !mobileMenu"
                 >
                     <svg
                         class="w-6 h-6"
@@ -75,9 +75,9 @@
                                 </div>
                                 <div class="-mr-2">
                                     <button
-                                        @click="mobileMenu = !mobileMenu"
                                         type="button"
                                         class="inline-flex items-center justify-center p-2 text-gray-400 transition duration-150 ease-in-out rounded-md hover:text-bodyCopyDark hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:text-bodyCopyDark"
+                                        @click="mobileMenu = !mobileMenu"
                                     >
                                         <!-- Heroicon name: x -->
                                         <svg
