@@ -60,7 +60,7 @@ export default {
                 img: '/social.jpg',
                 locale: 'en_US',
                 twitter: '@user',
-                twitter_card: '/social.jpg',
+                twitter_card: 'summary_large_image',
                 themeColor: '#743282',
             },
         ],
