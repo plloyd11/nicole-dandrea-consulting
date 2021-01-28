@@ -61,7 +61,11 @@ export default {
                     hid: 'description',
                     name: 'description',
                     content: this.post.content.excerpt,
-                    image: this.post.content.main_image.filename,
+                },
+                {
+                    hid: 'og:image',
+                    property: 'og:image',
+                    content: this.post.content.main_image.filename,
                 },
             ],
         }

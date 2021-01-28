@@ -42,12 +42,17 @@ export default {
         return { posts }
     },
     head: {
-        title: "Blog | Nicole D'Andrea Consulting",
+        title: "The Profitable Studio Blog | Nicole D'Andrea Consulting",
         meta: [
             {
                 hid: 'description',
                 name: 'description',
-                content: 'Home page description',
+                content: "The Profitable Studio Blog | Nicole D'Andrea",
+            },
+            {
+                hid: 'og:image',
+                property: 'og:image',
+                content: '/social.jpg',
             },
         ],
     },
