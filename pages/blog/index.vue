@@ -20,6 +20,7 @@
                 :excerpt="post.content.excerpt"
                 :author="post.content.author"
                 :published-date="post.content.date.toLocaleDateString()"
+                :reading-time="post.content.reading_time"
             ></post-list>
         </section>
     </main>

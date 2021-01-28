@@ -15,7 +15,7 @@
                         <p class="text-xl font-semibold text-gray-900">
                             {{ title }}
                         </p>
-                        <p class="mt-3 text-base text-gray-500">
+                        <p class="mt-3 text-base text-gray-500 line-clamp-3">
                             {{ excerpt }}
                         </p>
                     </nuxt-link>
@@ -38,7 +38,7 @@
                         <div class="flex space-x-1 text-sm text-gray-500">
                             <time datetime="2020-03-16"> {{ publishedDate }} </time>
                             <span aria-hidden="true"> &middot; </span>
-                            <span> 6 min read </span>
+                            <span> {{ readingTime }} read </span>
                         </div>
                     </div>
                 </div>
@@ -57,6 +57,16 @@ export default {
         excerpt: String,
         author: Object,
         mainImage: String,
+        readingTime: String,
     },
 }
 </script>
+
+<style>
+.line-clamp-3 {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+}
+</style>

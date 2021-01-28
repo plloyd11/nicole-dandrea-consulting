@@ -4,7 +4,7 @@ export default {
 
     // Global page headers: https://go.nuxtjs.dev/config-head
     head: {
-        title: "Nicole D'Andrea Yoga Business Coach",
+        title: "Yoga Business Coach | Nicole D'Andrea",
         htmlAttrs: {
             lang: 'en',
         },
@@ -14,7 +14,12 @@ export default {
                 name: 'viewport',
                 content: 'width=device-width, initial-scale=1',
             },
-            { hid: 'description', name: 'description', content: '' },
+            {
+                hid: 'description',
+                name: 'description',
+                content:
+                    'My mission? To help women in the wellness community stop undervaluing themselves and their businesses.',
+            },
         ],
         link: [
             { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },

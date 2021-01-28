@@ -10,9 +10,12 @@
                 />
                 <div class="ml-6">
                     <p class="text-xl font-bold">{{ author.name }}</p>
-                    <p class="mt-1 text-sm">
-                        Posted On: {{ post.content.date.toLocaleDateString() }}
-                    </p>
+                    <div class="flex flex-col mt-1">
+                        <p class="text-sm">
+                            Posted On: {{ post.content.date.toLocaleDateString() }}
+                        </p>
+                        <p class="text-sm">{{ post.content.reading_time }} read</p>
+                    </div>
                 </div>
             </div>
             <div>
