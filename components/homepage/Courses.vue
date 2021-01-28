@@ -22,8 +22,8 @@
                             <div class="px-6 py-8 bg-white sm:p-10 sm:pb-6">
                                 <div>
                                     <h3
-                                        class="inline-flex px-4 py-1 text-sm font-semibold leading-5 tracking-wide uppercase rounded-full text-primaryColorDark bg-secondaryColor"
                                         id="tier-standard"
+                                        class="inline-flex px-4 py-1 text-sm font-semibold leading-5 tracking-wide uppercase rounded-full text-primaryColorDark bg-secondaryColor"
                                     >
                                         $27
                                     </h3>
@@ -180,8 +180,8 @@
                             <div class="px-6 py-8 bg-white sm:p-10 sm:pb-6">
                                 <div>
                                     <h3
-                                        class="inline-flex px-4 py-1 text-sm font-semibold leading-5 tracking-wide uppercase rounded-full text-primaryColorDark bg-secondaryColor"
                                         id="tier-standard"
+                                        class="inline-flex px-4 py-1 text-sm font-semibold leading-5 tracking-wide uppercase rounded-full text-primaryColorDark bg-secondaryColor"
                                     >
                                         $49
                                     </h3>

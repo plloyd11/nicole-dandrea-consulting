@@ -163,7 +163,7 @@ export default {
         }
     },
     methods: {
-        closeMobileMenu: function () {
+        closeMobileMenu() {
             this.mobileMenu = false
         },
     },

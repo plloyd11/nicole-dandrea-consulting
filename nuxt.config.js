@@ -4,7 +4,7 @@ export default {
 
     // Global page headers: https://go.nuxtjs.dev/config-head
     head: {
-        title: "Nicole D'Andrea Yoga Business Coach",
+        title: "Yoga Business Coach | Nicole D'Andrea",
         htmlAttrs: {
             lang: 'en',
         },
@@ -14,7 +14,12 @@ export default {
                 name: 'viewport',
                 content: 'width=device-width, initial-scale=1',
             },
-            { hid: 'description', name: 'description', content: '' },
+            {
+                hid: 'description',
+                name: 'description',
+                content:
+                    'My mission? To help women in the wellness community stop undervaluing themselves and their businesses.',
+            },
         ],
         link: [
             { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
@@ -49,21 +54,6 @@ export default {
             },
         ],
         ['@nuxtjs/markdownit', { html: true, injected: true }],
-        [
-            'nuxt-social-meta',
-            {
-                url: 'https://nicoledandreaconsulting.com/',
-                title: "Expanding Mindsets, Profits & Possibilities | Nicole D'Andrea",
-                site_name: "Nicole D'Andrea Consulting",
-                description:
-                    "Build an extraordinary yoga or wellness business | Nicole D'Andrea Consulting",
-                img: '/social.jpg',
-                locale: 'en_US',
-                twitter: '@user',
-                twitter_card: 'summary_large_image',
-                themeColor: '#743282',
-            },
-        ],
         ['@nuxtjs/gtm'],
     ],
 

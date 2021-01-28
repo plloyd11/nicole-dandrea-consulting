@@ -20,6 +20,7 @@
                 :excerpt="post.content.excerpt"
                 :author="post.content.author"
                 :published-date="post.content.date.toLocaleDateString()"
+                :reading-time="post.content.reading_time"
             ></post-list>
         </section>
     </main>
@@ -42,12 +43,17 @@ export default {
         return { posts }
     },
     head: {
-        title: "Blog | Nicole D'Andrea Consulting",
+        title: "The Profitable Studio Blog | Nicole D'Andrea Consulting",
         meta: [
             {
                 hid: 'description',
                 name: 'description',
-                content: 'Home page description',
+                content: "The Profitable Studio Blog | Nicole D'Andrea",
+            },
+            {
+                hid: 'og:image',
+                property: 'og:image',
+                content: '/social.jpg',
             },
         ],
     },
