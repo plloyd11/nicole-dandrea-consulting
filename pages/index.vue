@@ -4,6 +4,7 @@
         <services></services>
         <premium-trainings></premium-trainings>
         <about></about>
+        <team></team>
         <testimonies></testimonies>
         <trust-factors></trust-factors>
         <mini-trainings></mini-trainings>
