@@ -34,8 +34,8 @@
                                 <ul class="flex justify-center space-x-5">
                                     <li>
                                         <a
-                                            href="https://www.facebook.com/eliteassistantbeyond"
                                             ref="noopener"
+                                            href="https://www.facebook.com/eliteassistantbeyond"
                                             target="_blank"
                                             class="text-gray-400 hover:text-gray-500"
                                         >

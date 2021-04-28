@@ -11,7 +11,7 @@
                 <h2
                     class="mt-4 mb-8 text-3xl font-medium leading-8 tracking-tight text-gray-900 sm:text-5xl sm:leading-10"
                 >
-                    About <span class="ml-1 script-font text-primaryColor">Nicole</span>
+                    About <span class="ml-1 script-font text-primaryColor">Me</span>
                 </h2>
             </div>
             <div class="lg:grid lg:grid-cols-2 lg:gap-8">
@@ -73,34 +73,35 @@
                         class="mx-auto prose-lg text-bodyCopyDark max-w-prose lg:max-w-none lg:row-start-1 lg:col-start-1"
                     >
                         <p class="mb-5 text-lg leading-8 text-bodyCopyDark">
-                            Nicole D’Andrea is a business coach for yoga studio owners and wellness
-                            practitioners. Her main goal? To help women of the wellness community
-                            stop undervaluing themselves and their businesses.
+                            Hi! My name is Nicole D’Andrea and I'm a business coach for yoga studio
+                            owners and wellness practitioners. My main goal? To help women of the
+                            wellness community stop undervaluing themselves and their businesses.
                         </p>
                         <p>
-                            She helps women think bigger, work smarter and to create improved
-                            commercial success so they can enjoy the financial freedom to live out
-                            their life dreams, whatever their individual dreams may be.
+                            I help women think bigger, work smarter and create improved commercial
+                            success so they can enjoy the financial freedom to live out their life
+                            dreams, whatever their dreams may be.
                         </p>
                         <p>
-                            Nicole’s consulting business was built on the success of her own
-                            studio’s impressive growth trajectory. She leverages her strategic sixth
-                            sense, her first hand understanding and experience, and her bigger
-                            vision for the industry and uses this to help others build profitable
-                            businesses and achieve the mindset mastery required to sustain them.
+                            My consulting business was built on the success of my own studio’s
+                            impressive growth trajectory. I leverage my strategic sixth sense, first
+                            hand understanding and experience, and my bigger vision for the industry
+                            and use this to help others build profitable businesses and achieve the
+                            mindset mastery required to sustain them.
                         </p>
                         <p>
-                            She has achieved tremendous results from her own studio experience and
-                            is helping a growing number of clients do the same. The consulting
-                            business is her means for sharing these insights and empowering others
-                            to grow their mindsets and their bottom lines.
+                            I have achieved tremendous results from my own studio experience and am
+                            helping a growing number of clients do the same. The consulting business
+                            is my means for sharing these insights and empowering others to grow
+                            their mindsets and their bottom lines.
                         </p>
                         <p>
-                            Nicole is quickly gaining a reputation for being the
-                            <span class="italic font-bold">
-                                Success Coach who expands mindsets, profits and possibilities.
-                            </span>
-                            And she’s just fine with that!
+                            I'm quickly gaining a reputation for being the
+                            <span class="italic font-bold"
+                                >Success Coach who expands mindsets, profits and
+                                possibilities.</span
+                            >
+                            And I'm just fine with that!
                         </p>
                     </div>
                 </div>

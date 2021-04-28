@@ -214,6 +214,74 @@
                     />
                 </div>
             </div>
+
+            <div
+                class="relative mt-12 md:mt-24 lg:mt-48 lg:grid lg:grid-cols-2 lg:gap-8 lg:items-center"
+            >
+                <div class="relative">
+                    <h4
+                        class="text-2xl font-medium leading-8 tracking-tight text-headerDark sm:text-3xl sm:leading-9 dash-trail"
+                    >
+                        Studio SOS
+                    </h4>
+                    <p class="mt-3 text-lg leading-8 text-bodyCopyDark">
+                        The solution for Studio Owners who need a fix, fast. We’ll drill into your
+                        current systems and find your most pressing needs. Then, focus on one or two
+                        areas of your business in this potent 30 day container that includes private
+                        coaching and daily support as you execute your brilliant strategy. Need to
+                        change your pricing? Run your KPIs? Build a marketing campaign for your
+                        event or training? Sharpen up your staff? I have you covered.
+                    </p>
+                    <a
+                        href="https://blackbirdyogastudio.lpages.co/studio-sos/"
+                        target="_blank"
+                        rel="noopener"
+                        class="block mt-4 text-lg underline text-primaryColor hover:text-primaryColorDark"
+                        >Learn More</a
+                    >
+                </div>
+
+                <div class="relative mt-10 lg:mt-0">
+                    <svg
+                        class="absolute transform -translate-x-1/2 translate-y-16 left-1/2 lg:hidden"
+                        width="784"
+                        height="404"
+                        fill="none"
+                        viewBox="0 0 784 404"
+                    >
+                        <defs>
+                            <pattern
+                                id="ca9667ae-9f92-4be7-abcb-9e3d727f2941"
+                                x="0"
+                                y="0"
+                                width="20"
+                                height="20"
+                                patternUnits="userSpaceOnUse"
+                            >
+                                <rect
+                                    x="0"
+                                    y="0"
+                                    width="4"
+                                    height="4"
+                                    class="text-gray-200"
+                                    fill="currentColor"
+                                />
+                            </pattern>
+                        </defs>
+                        <rect
+                            width="784"
+                            height="404"
+                            fill="url(#ca9667ae-9f92-4be7-abcb-9e3d727f2941)"
+                        />
+                    </svg>
+                    <img
+                        class="relative mx-auto rounded-lg shadow-xl"
+                        width="490"
+                        src="~/assets/img/sos.jpg"
+                        alt="Nicole smiling sitting at her office desk"
+                    />
+                </div>
+            </div>
         </div>
     </section>
 </template>
