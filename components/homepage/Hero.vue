@@ -23,7 +23,7 @@
                 <div class="mt-10 sm:flex sm:justify-center lg:justify-start">
                     <div class="rounded-md shadow">
                         <a
-                            href="https://blackbirdyogastudio.lpages.co/60-minute-strategy-session/"
+                            href="https://coach.nicoledandreaconsulting.com/book-a-free-60-minute-studio-strategy-session"
                             target="_blank"
                             rel="noopener"
                             class="flex items-center justify-center w-full px-8 py-3 text-base font-medium leading-6 text-white transition duration-150 ease-in-out border border-transparent rounded-md bg-primaryColor hover:bg-primaryColorDark focus:outline-none focus:border-text-primaryColorDark focus:shadow-outline-indigo md:py-4 md:text-lg md:px-10"
