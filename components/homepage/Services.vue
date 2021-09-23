@@ -58,7 +58,7 @@
                         grind and do the soul work you were meant for.
                     </p>
                     <a
-                        href="https://blackbirdyogastudio.lpages.co/60-minute-strategy-session/"
+                        href="https://coach.nicoledandreaconsulting.com/book-a-free-60-minute-studio-strategy-session"
                         target="_blank"
                         rel="noopener"
                         class="block mt-4 text-lg underline text-primaryColor hover:text-primaryColorDark"
@@ -95,7 +95,7 @@
                         vacation, spend time with your family and get back on your yoga mat.
                     </p>
                     <a
-                        href="https://blackbirdyogastudio.lpages.co/60-minute-strategy-session/"
+                        href="https://coach.nicoledandreaconsulting.com/book-a-free-60-minute-studio-strategy-session"
                         target="_blank"
                         rel="noopener"
                         class="block mt-4 text-lg underline text-primaryColor hover:text-primaryColorDark"
@@ -129,7 +129,7 @@
                         improve retention and drive big revenue.
                     </p>
                     <a
-                        href="https://blackbirdyogastudio.lpages.co/60-minute-strategy-session/"
+                        href="https://coach.nicoledandreaconsulting.com/book-a-free-60-minute-studio-strategy-session"
                         target="_blank"
                         rel="noopener"
                         class="block mt-4 text-lg underline text-primaryColor hover:text-primaryColorDark"
@@ -233,7 +233,7 @@
                         event or training? Sharpen up your staff? I have you covered.
                     </p>
                     <a
-                        href="https://blackbirdyogastudio.lpages.co/studio-sos/"
+                        href="https://coach.nicoledandreaconsulting.com/studio-sos"
                         target="_blank"
                         rel="noopener"
                         class="block mt-4 text-lg underline text-primaryColor hover:text-primaryColorDark"

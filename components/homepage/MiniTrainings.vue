@@ -123,7 +123,7 @@
                                 </ul>
                                 <div class="rounded-md shadow">
                                     <a
-                                        href="https://blackbirdyogastudio.lpages.co/salesschool/?fbclid=IwAR2uONpj_VXVE8Xn_HkIwmVa-S-iSDeq1Qxp4_9_RQ_pIK5BdFetmZgCTVg"
+                                        href="https://coach.nicoledandreaconsulting.com/pl/2147535041"
                                         target="_blank"
                                         rel="noopener"
                                         class="flex items-center justify-center px-5 py-3 text-lg font-medium leading-6 text-white transition duration-150 ease-in-out border border-transparent rounded-md bg-primaryColor hover:bg-primaryColorDark focus:outline-none focus:shadow-outline"
@@ -253,7 +253,7 @@
                                 </ul>
                                 <div class="rounded-md shadow">
                                     <a
-                                        href="https://blackbirdyogastudio.lpages.co/retention-rulebook/?fbclid=IwAR3dknmMXskGh7H9rT2tH4rnz_tL9s--Ajqgfa_XUeu3T5UDy-b7n_9mnm0"
+                                        href="https://coach.nicoledandreaconsulting.com/pl/2147535068"
                                         target="_blank"
                                         rel="noopener"
                                         class="flex items-center justify-center px-5 py-3 text-lg font-medium leading-6 text-white transition duration-150 ease-in-out border border-transparent rounded-md bg-primaryColor hover:bg-primaryColorDark focus:outline-none focus:shadow-outline"

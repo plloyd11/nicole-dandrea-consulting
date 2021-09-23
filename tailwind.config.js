@@ -1,10 +1,11 @@
 module.exports = {
+    mode: 'jit',
     purge: [
-        './components/**/*.{vue,js}',
-        './layouts/**/*.vue',
-        './pages/**/*.vue',
-        './plugins/**/*.{js,ts}',
-        './nuxt.config.{js,ts}',
+        `components/**/*.{vue,js}`,
+        `layouts/**/*.vue`,
+        `pages/**/*.vue`,
+        `plugins/**/*.{js,ts}`,
+        `nuxt.config.{js,ts}`,
     ],
     theme: {
         fontFamily: {
@@ -30,5 +31,5 @@ module.exports = {
         },
     },
     variants: {},
-    plugins: [require('@tailwindcss/typography')],
+    plugins: [require('@tailwindcss/typography'), require('@tailwindcss/forms')],
 }

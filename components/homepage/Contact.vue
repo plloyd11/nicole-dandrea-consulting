@@ -85,51 +85,78 @@
                             <input name="bot-field" />
                         </div>
                         <div>
-                            <label for="full_name" class="sr-only">Full name</label>
-                            <div class="relative rounded-md shadow-sm">
+                            <div
+                                class="relative px-3 py-2 border border-gray-300 rounded-md shadow-sm focus-within:ring-1 focus-within:ring-primaryColor focus-within:border-primaryColor"
+                            >
+                                <label
+                                    for="name"
+                                    class="absolute inline-block px-1 -mt-px text-xs font-medium text-gray-900 bg-white -top-2 left-2"
+                                    >Name</label
+                                >
                                 <input
                                     id="full_name"
                                     name="Full name"
-                                    class="block w-full px-4 py-3 placeholder-gray-500 transition duration-150 ease-in-out form-input"
+                                    class="block w-full p-0 text-gray-900 placeholder-gray-500 border-0 focus:ring-0 sm:text-sm"
                                     placeholder="Full name"
+                                    type="text"
                                     required
                                 />
                             </div>
                         </div>
                         <div>
-                            <label for="email" class="sr-only">Email</label>
-                            <div class="relative rounded-md shadow-sm">
+                            <div
+                                class="relative px-3 py-2 border border-gray-300 rounded-md shadow-sm focus-within:ring-1 focus-within:ring-primaryColor focus-within:border-primaryColor"
+                            >
+                                <label
+                                    for="email"
+                                    class="absolute inline-block px-1 -mt-px text-xs font-medium text-gray-900 bg-white -top-2 left-2"
+                                    >E-mail Address</label
+                                >
                                 <input
                                     id="email"
+                                    name="email"
+                                    class="block w-full p-0 text-gray-900 placeholder-gray-500 border-0 focus:ring-0 sm:text-sm"
+                                    placeholder="Email Address"
                                     type="email"
-                                    name="Email"
-                                    class="block w-full px-4 py-3 placeholder-gray-500 transition duration-150 ease-in-out form-input"
-                                    placeholder="Email"
                                     required
                                 />
                             </div>
                         </div>
                         <div>
-                            <label for="phone" class="sr-only">Phone</label>
-                            <div class="relative rounded-md shadow-sm">
+                            <div
+                                class="relative px-3 py-2 border border-gray-300 rounded-md shadow-sm focus-within:ring-1 focus-within:ring-primaryColor focus-within:border-primaryColor"
+                            >
+                                <label
+                                    for="phone"
+                                    class="absolute inline-block px-1 -mt-px text-xs font-medium text-gray-900 bg-white -top-2 left-2"
+                                    >Phone</label
+                                >
                                 <input
                                     id="phone"
-                                    name="Phone"
-                                    class="block w-full px-4 py-3 placeholder-gray-500 transition duration-150 ease-in-out form-input"
-                                    placeholder="Phone"
+                                    name="phone"
+                                    class="block w-full p-0 text-gray-900 placeholder-gray-500 border-0 focus:ring-0 sm:text-sm"
+                                    placeholder="Phone Number"
+                                    type="tel"
                                     required
                                 />
                             </div>
                         </div>
                         <div>
-                            <label for="message" class="sr-only">Message</label>
-                            <div class="relative rounded-md shadow-sm">
+                            <div
+                                class="relative px-3 py-2 border border-gray-300 rounded-md shadow-sm focus-within:ring-1 focus-within:ring-primaryColor focus-within:border-primaryColor"
+                            >
+                                <label
+                                    for="message"
+                                    class="absolute inline-block px-1 -mt-px text-xs font-medium text-gray-900 bg-white -top-2 left-2"
+                                    >Message</label
+                                >
                                 <textarea
                                     id="message"
                                     rows="4"
                                     name="Message"
-                                    class="block w-full px-4 py-3 placeholder-gray-500 transition duration-150 ease-in-out form-input"
-                                    placeholder="Message"
+                                    class="block w-full p-0 text-gray-900 placeholder-gray-500 border-0 focus:ring-0 sm:text-sm"
+                                    placeholder="Write a message to Nicole!"
+                                    type="text"
                                     required
                                 ></textarea>
                             </div>

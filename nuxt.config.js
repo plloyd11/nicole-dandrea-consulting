@@ -34,7 +34,12 @@ export default {
     plugins: ['~/plugins/disqus'],
 
     // Auto import components: https://go.nuxtjs.dev/config-components
-    components: true,
+    components: [
+        '~/components/homepage',
+        '~/components/layout',
+        '~/components/ui',
+        '~/components/app',
+    ],
 
     // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
     buildModules: [
