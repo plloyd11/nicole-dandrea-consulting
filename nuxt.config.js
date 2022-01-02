@@ -31,7 +31,7 @@ export default {
     css: [],
 
     // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
-    plugins: ['~/plugins/disqus'],
+    plugins: ['~/plugins/disqus', '~/plugins/plausible'],
 
     // Auto import components: https://go.nuxtjs.dev/config-components
     components: [
@@ -64,6 +64,10 @@ export default {
 
     gtm: {
         id: 'G-C2MVCQTW9V',
+    },
+
+    plausible: {
+        domain: 'nicoledandreaconsulting.com',
     },
 
     // Build Configuration: https://go.nuxtjs.dev/config-build
