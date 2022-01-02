@@ -31,7 +31,7 @@ export default {
     css: [],
 
     // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
-    plugins: ['~/plugins/disqus', '~/plugins/plausible'],
+    plugins: ['~/plugins/disqus'],
 
     // Auto import components: https://go.nuxtjs.dev/config-components
     components: [
@@ -60,6 +60,7 @@ export default {
         ],
         ['@nuxtjs/markdownit', { html: true, injected: true }],
         ['@nuxtjs/gtm'],
+        ['vue-plausible'],
     ],
 
     gtm: {
@@ -68,6 +69,9 @@ export default {
 
     plausible: {
         domain: 'nicoledandreaconsulting.com',
+        hashMode: true,
+        trackLocalhost: false,
+        piHost: 'https://plausible.io',
     },
 
     // Build Configuration: https://go.nuxtjs.dev/config-build
