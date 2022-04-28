@@ -8,7 +8,7 @@
           >
             Partners
           </h2>
-          <div class="mt-6 grid grid-cols-2 gap-0.5 lg:grid-cols-2 lg:mt-8">
+          <div class="mt-6 grid grid-cols-1 gap-0.5 lg:grid-cols-2 lg:mt-8">
             <div
               v-for="logo in logos"
               :key="logo"
