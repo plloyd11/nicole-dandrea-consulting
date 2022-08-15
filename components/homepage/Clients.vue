@@ -68,6 +68,10 @@ export default {
           src: 'clients/modo-yoga.png',
           name: 'Modo Yoga',
         },
+        {
+          src: 'clients/fit-degree.png',
+          name: 'Fit Degree',
+        },
       ],
     };
   },
